@@ -1,5 +1,5 @@
-serverAddress: gemvido/cs.msgeng
+serverAddress: gemvido/MsgCS.msgeng
 disabled: false
-serverName: Chat Server
-serverUrl: https://github.com/gemvido/cs/tree/main/server.msgeng
-version: v0.1.5-Alpha
+serverName: MessageEngine Chat Server
+serverUrl: https://github.com/gemvido/MsgCS/tree/main/server.msgeng
+version: v0.1.2
